@@ -1,0 +1,10 @@
+python-dotenv
+openai
+requests
+streamlit
+
+#PII
+spacy
+presidio-analyzer
+presidio-anonymizer
+faker
